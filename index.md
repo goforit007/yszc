@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+用户隐私条款
 
-You can use the [editor on GitHub](https://github.com/goforit007/yszc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+对于用户信息的收集、使用和保护措施，请务必仔细阅读:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一、用户个人信息
 
-### Markdown
+1.1、当您在下载和使用移动应用时，应用不需要您提供任何个人信息。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.2、收集用户信息时，我们会征得您的同意，不会强制要求提供您的信息。如果您反对提供以上信息，不会影响正常使用移动应用。
 
-```markdown
-Syntax highlighted code block
+1.3、在收集和使用以上个人信息的过程中，我们承诺不会在未经用户授权的情况下公开、透漏其个人信息。
 
-# Header 1
-## Header 2
-### Header 3
+二、用户行为信息
 
-- Bulleted
-- List
+2.1、当您在下载和使用移动应用时，应用将会收集用户的行为信息，如操作时长、使用频率、常用功能等。这些数据用于我们收集用户的使用习惯及受欢迎的功能，以帮助我们持续改进产品和服务。
 
-1. Numbered
-2. List
+2.2、用户行为信息将作为用户群体的整体概况数据存在和使用，不会存在行为信息与特定用户之间的关联。
 
-**Bold** and _Italic_ and `Code` text
+三、用户设备信息
 
-[Link](url) and ![Image](src)
-```
+3.1、为持续优化产品在您的设备上的体验，我们的应用会收集如下非个人化信息： 操作系统及版本 设备型号及版本 屏幕分辨率
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+3.2、以上信息将作为用户群体的整体概况数据存在和使用，不会存在设备信息与特定用户之间的关联。
 
-### Jekyll Themes
+四、隐私条款的变更
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goforit007/yszc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我们对本隐私条款保留更改的权利，请关注并了解本隐私条款的更新内容。
